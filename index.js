@@ -1,4 +1,4 @@
-function notatotal(){
+function notatotal() {
    nombre=document.getElementById('Nombre').value;
    edad=document.getElementById('Edad').value;
    ciclo=document.getElementById('Ciclo').value;
